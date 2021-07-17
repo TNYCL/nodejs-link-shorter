@@ -1,0 +1,15 @@
+{
+  "name": "linkshorter",
+  "version": "1.0.0",
+  "description": "Make a short link from long link",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "TNYCL",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "mysql": "^2.18.1"
+  }
+}
