@@ -1,7 +1,7 @@
 @echo off
 title 
 cls
-npm i --save mysql clipboardy
+npm i
 cls
 echo Install completed.
 pause
